@@ -512,17 +512,17 @@ body {
   max-height: 100%;
 }
 
-.container .videos .videoContainer .videoGrid:nth-of-type(1) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(4) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(7) .videoArt   {
+.container .videos .videoContainer .videoGrid:nth-of-type(1) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(4) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(7) .videoArt  {
   position: relative;
   margin-left: 0%;
 }
 
-.container .videos .videoContainer .videoGrid:nth-of-type(2) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(5) .videoArt  {
+.container .videos .videoContainer .videoGrid:nth-of-type(2) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(5) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(8) .videoArt {
   position: relative;
   margin-left: 3%;
 }
 
-.container .videos .videoContainer .videoGrid:nth-of-type(3) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(6) .videoArt  {
+.container .videos .videoContainer .videoGrid:nth-of-type(3) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(6) .videoArt, .container .videos .videoContainer .videoGrid:nth-of-type(9) .videoArt  {
   position: relative;
   margin-left: 6%;
 }
