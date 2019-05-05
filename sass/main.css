@@ -72,6 +72,10 @@ body {
   }
 }
 
+.spacerSmall {
+  margin-bottom: 15px;
+}
+
 .container .hero {
   background: url("../images/headerBg.svg");
   background-size: cover;
